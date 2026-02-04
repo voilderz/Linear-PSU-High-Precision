@@ -1,0 +1,12 @@
+Reference,Component,MPN,Extended Description
+TR1,Transformer,ASL171112,230V AC Primary Step-Down Transformer: High galvanic isolation with low electromagnetic interference (EMI) profile for grid safety.
+D1,Diode Bridge,GBU810_T0_00601,Full-Wave Bridge Rectifier: High-current capacity stage designed for efficient AC to DC energy conversion with minimal voltage drop.
+C1,Capacitor (Electrolytic),B41858C5688M000,Bulk Filtration: 6800uF 25V Low-ESR (Equivalent Series Resistance) Aluminum Electrolytic Capacitor for maximum ripple voltage suppression.
+"C2, C4",Capacitor (Film),MKS2C031001A00KSSD,Transient Decoupling: Metallized Polyester (PET) Film Capacitors for high-frequency noise filtering and input/output stability.
+C3,Capacitor (Polymer),A7C5KN227M1EAAS029,Precision Smoothing: High-stability Conductive Polymer Aluminum Solid Capacitor for low-noise output rail regulation.
+LED1,LED,3R4HD-7-TB,Status Indicator: High-efficiency Red LED (660 nm) for real-time power-on diagnostic and visual verification.
+F1,Fuse (Primary),0697H0250,Primary Overcurrent Protection: 250mA Slow-Blow (Time-Delay) subminiature fuse for AC grid surge protection.
+F2,Fuse (Secondary),80812500000,Secondary Rail Protection: 2.5A Fast-Acting subminiature radial leaded fuse for load-side short-circuit mitigation.
+U1,Regulator,TSR 3-2450,High-Efficiency Switching Regulator: Traco Power non-isolated step-down converter with up to 95% peak efficiency for thermal management.
+R1,Resistor (1k Ohm),MFR-25FTE52-1K,Precision Current Limiting: 1k Ohm High-Precision metal film resistor with 1% tolerance for optimized LED longevity and stability.
+"J1, J2",Connector,KF129V-5.08-2P,Heavy-Duty Power Interface: 5.08mm pitch screw terminal blocks for secure and robust field wire connections.
