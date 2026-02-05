@@ -1,6 +1,6 @@
 # Linear-PSU-High-Precision
 
-**L'excellence technique.** This project is an industrial-grade power module designed for high-stability electronic systems requiring precision voltage regulation. The design focuses on ultra-low noise energy delivery, thermal stability, and electrical safety.
+This project is an industrial-grade power module designed for high-stability electronic systems requiring precision voltage regulation. The design focuses on ultra-low noise energy delivery, thermal stability, and electrical safety.
 
 ## Overview
 This module converts $230\text{V}$ AC grid voltage into highly regulated, low-ripple $5\text{V}$ and $15\text{V}$ DC outputs. It is engineered to serve as a reliable power platform for sensitive sensor networks and control units.
