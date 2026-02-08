@@ -2,6 +2,16 @@
 
 This project is an industrial-grade power module designed for high-stability electronic systems requiring precision voltage regulation. The design focuses on ultra-low noise energy delivery, thermal stability, and electrical safety.
 
+---
+
+### Changelog - v1.1 (February 2026)
+
+* **Safety Seal:** Integrated **B72314S2271K101** MOV to the mains input for enhanced surge and transient protection.
+* **Isolation Discipline:** Established a complete physical isolation barrier between AC and DC zones to eliminate arcing risks.
+* **Visual Identity:** Branded the PCB with **VOI** logo and v1.1 versioning on the silkscreen layer for professional traceability.
+
+---
+
 ## Overview
 This module converts $230\text{V}$ AC grid voltage into highly regulated, low-ripple $5\text{V}$ and $15\text{V}$ DC outputs. It is engineered to serve as a reliable power platform for sensitive sensor networks and control units.
 
@@ -9,7 +19,7 @@ This module converts $230\text{V}$ AC grid voltage into highly regulated, low-ri
 | Parameter | Value |
 | :--- | :--- |
 | **Input Voltage** | $230\text{V}$ AC ($50\text{/60Hz}$) |
-| **Output Voltage** | $5\text{V}$ / $15\text{V}$ DC Regulated |
+| **Output Voltage** | $5\text{V}$ DC Regulated |
 | **Continuous Current** | $1.916\text{ A}$ Max |
 | **Precision** | $0.1\%$ Tolerance (Voltage Reference Rail) |
 | **Efficiency** | Up to $95\%$ (Traco Power Integration) |
