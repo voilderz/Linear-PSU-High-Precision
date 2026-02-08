@@ -10,3 +10,4 @@ F2,Fuse (Secondary),80812500000,Secondary Rail Protection: 2.5A Fast-Acting subm
 U1,Regulator,TSR 3-2450,High-Efficiency Switching Regulator: Traco Power non-isolated step-down converter with up to 95% peak efficiency for thermal management.
 R1,Resistor (1k Ohm),MFR-25FTE52-1K,Precision Current Limiting: 1k Ohm High-Precision metal film resistor with 1% tolerance for optimized LED longevity and stability.
 "J1, J2",Connector,KF129V-5.08-2P,Heavy-Duty Power Interface: 5.08mm pitch screw terminal blocks for secure and robust field wire connections.
+RV1,Varistor,B72314S2271K101,275VAC Metal Oxide Varistor (MOV) for input surge and transient protection
